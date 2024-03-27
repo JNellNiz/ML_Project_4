@@ -1,5 +1,5 @@
 # Overview:
-The goal of project 4 is to successfully make a house price predictor using machine learning. The problem that we are tackling is the lack of information for prices of new homes. The libraries that will be used are pandas, matplotlib, and seaborn.
+The goal of project 4 is to successfully make a house price predictor using machine learning. The problem that we are tackling is the lack of information for prices of new homes. 
 
 ## Approach:
 The plan of action consists of acquiring datasets, creating a process for modeling, modeling the data, and model optimization. Acquiring the dataset consists of gathering data from various libraries like Kaggle and Medium.
